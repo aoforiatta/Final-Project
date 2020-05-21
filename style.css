@@ -28,6 +28,7 @@ background-color: rgba(0, 0, 0, .75)
 .splash-title{
     font-size: 100px;
     text-align: center;
+    color: sienna;
 }
 
 .splash-subtitle{
@@ -37,5 +38,10 @@ background-color: rgba(0, 0, 0, .75)
 .splash-button {
     margin: 0 auto;
     display: block;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0;
+    border: 3px sienna;
+    color: salmon;
+
     
 }
