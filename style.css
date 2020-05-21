@@ -1,19 +1,25 @@
 body{
     font-family: Arial;
-    background-image: url("../images/meadow.jpg");
+    
     
 }
 
-
+.background-image {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 2000px;
+}
 
 .splash-content {
 background-color: lightgrey;
 
-
+width: 700px;
 position: absolute;
 top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
+background-color: rgba(0, 0, 0, .75)
 ;
 
 
