@@ -46,6 +46,11 @@ background-color: rgba(0, 0, 0, .75)
     
 }
  
+header{
+    background-color: slategrey;
+    padding: 20px;
+
+}
     .site-title {
         text-align: center;
     }
@@ -58,4 +63,11 @@ text-align: center;
 
 .main-menu {
     text-align: center;
+}
+
+.main-content {
+    width: 1200px;
+    background-color: salmon;
+    padding: 20px;
+    font-size: 30px;
 }
